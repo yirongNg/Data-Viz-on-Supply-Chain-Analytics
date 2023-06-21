@@ -7,13 +7,7 @@
 ## 📖 Background
 Test your BI skills on a real-world dataset focusing on supply chain analytics. As the main data analyst for Just In Time, you will help solve key shipment and inventory management challenges, analyze supply chain inefficiencies, and create insightful dashboards to inform business stakeholders about potential problems and propose structural business improvements.
 
-Be creative and make use of your full skillset! Use this Workspace to prepare your data, import the tables into your local Tableau or Power BI instance, and share your insights below.
-
-The end goal will be a (set of) interactive dashboards that demonstrate clear insights for Just In Time.
-
 ## 💾 The data
-
-
 | Group | Column name | Dataset | Definition |
 |:---|:---|:---|:---|
 | Customer | Customer ID | orders_and_shipments.csv | Unique customer identification |

@@ -37,7 +37,7 @@ Test your BI skills on a real-world dataset focusing on supply chain analytics. 
 | Inventory & Fulfillment | Inventory cost per unit | inventory.csv | The monthly storage cost per unit of inventory, e.g. $2.07 |
 | Inventory & Fulfillment | Warehouse Order fulfillment (days) | fulfillment.csv | The average amount of days it takes to refill stock if inventory drops below zero |
 
--  It was observed that the *__Product Department__* column and *__Product Category__* column do not tally with the *__Product Name__* column. After manual editing, the updated table was saved as *__orders_and_shipments_edited.csv__* and is used for creating data visualization in Tableau.
+-  It was observed that the *__Product Department__* column and *__Product Category__* column do not tally with the *__Product Name__* column. After manual editing, the updated table was saved as *__orders_and_shipments_edited1.csv__* and is used for creating data visualization in Tableau.
 
 ## 🔍 Executive Summary
 

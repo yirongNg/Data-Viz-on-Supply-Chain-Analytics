@@ -2,7 +2,7 @@
 
 ## 🔗 Project Links
 - [Data Cleaning on Jupyter Notebook](Data_Cleaning_Supply_Chain_Analytics.ipynb)
-- [Interactive Dashboard on Tableau](https://public.tableau.com/shared/SYW8DFTR3?:display_count=n&:origin=viz_share_link) (Work in Progress)
+- [Interactive Dashboard on Tableau]([https://public.tableau.com/shared/SYW8DFTR3?:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/XJ9DHSSXD?:display_count=n&:origin=viz_share_link))
 
 ## 📖 Background
 Test your BI skills on a real-world dataset focusing on supply chain analytics. As the main data analyst for Just In Time, you will help solve key shipment and inventory management challenges, analyze supply chain inefficiencies, and create insightful dashboards to inform business stakeholders about potential problems and propose structural business improvements.
@@ -40,5 +40,4 @@ Test your BI skills on a real-world dataset focusing on supply chain analytics. 
 -  It was observed that the *__Product Department__* column and *__Product Category__* column do not tally with the *__Product Name__* column. After manual editing, the updated table was saved as *__orders_and_shipments_edited1.csv__* and is used for creating data visualization in Tableau.
 
 ## 🔍 Executive Summary
-
-- Work in progess.
+- Work in Progress...

@@ -40,7 +40,9 @@ Test your BI skills on a real-world dataset focusing on supply chain analytics. 
 -  It was observed that the *__Product Department__* column and *__Product Category__* column do not tally with the *__Product Name__* column in [orders_and_shipments.csv](orders_and_shipments.csv). After manual editing, the updated table was saved as [orders_and_shipments_edited1.csv](orders_and_shipments_edited1.csv) and is used for creating data visualization in Tableau.
 
 ## 🔍 Summary & Recommendations
-- working in progress
+1. In Year 2015 to 2017, *Just In Time* has generated a total of $222 millions sales revenue and making $143 millions in profit. USA is ranked #1 in sales and Africa region has the highest median customer life time value. The top selling product in most countries is *Field and Stream Sportsman 16 Gun Fire Safe* which garnered over $41 millions sales revenue.
+
+2. 
 
 ![Executive Summary](https://github.com/yirongNg/Data-Viz-on-Supply-Chain-Analytics/assets/132359604/f7579b2a-cc0e-4f70-843b-32922b04ee7d)
 

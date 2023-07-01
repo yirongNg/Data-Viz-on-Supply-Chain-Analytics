@@ -39,5 +39,17 @@ Test your BI skills on a real-world dataset focusing on supply chain analytics. 
 
 -  It was observed that the *__Product Department__* column and *__Product Category__* column do not tally with the *__Product Name__* column in [orders_and_shipments.csv](orders_and_shipments.csv). After manual editing, the updated table was saved as [orders_and_shipments_edited1.csv](orders_and_shipments_edited1.csv) and is used for creating data visualization in Tableau.
 
-## 🔍 Executive Summary
-- Work in Progress...
+## 🔍 Summary & Recommendations
+- working in progress
+
+![Executive Summary](https://github.com/yirongNg/Data-Viz-on-Supply-Chain-Analytics/assets/132359604/f7579b2a-cc0e-4f70-843b-32922b04ee7d)
+
+![Shipment Dashboard](https://github.com/yirongNg/Data-Viz-on-Supply-Chain-Analytics/assets/132359604/9c4e0772-c5e8-4076-b362-333a910c30d2)
+
+![Inventory Dashboard](https://github.com/yirongNg/Data-Viz-on-Supply-Chain-Analytics/assets/132359604/263b8185-547c-421c-8866-ebe7d43245f9)
+
+![Growth Opportunities](https://github.com/yirongNg/Data-Viz-on-Supply-Chain-Analytics/assets/132359604/5a19277f-e400-4afa-88a5-c7ba3d237fd4)
+
+
+
+

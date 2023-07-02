@@ -40,9 +40,9 @@ Test your BI skills on a real-world dataset focusing on supply chain analytics. 
 -  It was observed that the *__Product Department__* column and *__Product Category__* column do not tally with the *__Product Name__* column in [orders_and_shipments.csv](orders_and_shipments.csv). After manual editing, the updated table was saved as [orders_and_shipments_edited1.csv](orders_and_shipments_edited1.csv) and is used for creating data visualization in Tableau.
 
 ## 🔍 Summary & Recommendations
-1. In Year 2015 to 2017, *Just In Time* has generated a total of $222 millions sales revenue and making $143 millions in profit. USA is ranked #1 in sales and Africa region has the highest median Customer Life Time Value. The top selling product in most countries is *Field and Stream Sportsman 16 Gun Fire Safe* which garnered over $41 millions sales revenue.
+1. In Year 2015 to 2017, *Just In Time* has generated a total of $222 millions sales revenue and making $143 millions in profit. USA is ranked #1 in sales and Africa region has the highest median Customer Life Time Value. The top selling product in most countries is *Field and Stream Sportsman 16 Gun Fire Safe* which garnered over $41 millions sales revenue. Since Africa customers are giving us more sales in the long run, we should maintain their customer satisfaction by shortening the shipment delays. For example, *Perfect Fitness Perfect Rip Deck (Strength Training Category)* and *Diamondback Women's Serene Classic Comfort Bicycle (Cardio Equipment)* are top selling products but their demands in recent fourth quarter has decreased significantly and its shipment delays has increased.
 
-2. In the recent fourth quarter of Year 2017, the shipment delays have started to increase and the level of orders has dropped significantly. Despite the shipment delays, the demand for the products remains relatively high in countries such as Australia, Jamaica, etc.
+2. In the recent fourth quarter of Year 2017, the shipment delays have started to increase and the level of orders has dropped significantly. Despite the shipment delays, the demand for the products remains relatively high in countries such as Australia, Jamaica etc.
 
 3. 
 

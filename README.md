@@ -42,17 +42,23 @@ Test your BI skills on a real-world dataset focusing on supply chain analytics. 
 ## 🔍 Summary & Recommendations
 1. In Year 2015 to 2017, *Just In Time* has generated a total of $222 millions sales revenue and making $143 millions in profit. USA is ranked #1 in sales and Africa region has the highest median Customer Life Time Value. The top selling product in most countries is *Field and Stream Sportsman 16 Gun Fire Safe* which garnered over $41 millions sales revenue. Since Africa customers are giving us more sales in the long run, we should maintain their customer satisfaction by shortening the shipment delays. For example, *Perfect Fitness Perfect Rip Deck (Strength Training Category)* and *Diamondback Women's Serene Classic Comfort Bicycle (Cardio Equipment)* are top selling products but their demands in recent fourth quarter has decreased significantly and its shipment delays has increased.
 
-2. In the recent fourth quarter of Year 2017, the shipment delays have started to increase and the level of orders has dropped significantly. Despite the shipment delays, the demand for the products remains relatively high in countries such as Australia, Jamaica etc.
+2. Since the start of Year 2015, the timeliness of shipment had been improving and order quantity was at a stable level. However in the recent fourth quarter of Year 2017, the shipment delays had started to increase and the level of orders had dropped significantly. There were peaks in order quantity for different regions in different months. For example, Africa had huge number of orders between September to December 2016, Europe (June - October 2015 & July - September 2017), Latin America (January 2015 & February - May 2017), North America (April - July 2016), and Pacific Asia (November 2015 - March 2016 & September - December 2016). We can investigate what are the past events happening in these periods that trigger a surge in orders so that we can stock up the inventory to accomodate for the high number of orders in the future.
 
-3. 
+3. The average inventory cost per month for all products was $219.30. This inventory cost can be reduced by not re-stocking less-demanded products too often. 4 out of 11 understock product categories required more than the average fulfillment days of 6.25 to refill the inventory but this has little impact on the gross sales revenue as the combine sales revenue of these 4 categories is only 0.23% of the total sales revenue.
 
-![Executive Summary](https://github.com/yirongNg/Data-Viz-on-Supply-Chain-Analytics/assets/132359604/f7579b2a-cc0e-4f70-843b-32922b04ee7d)
+4. Generally, all the products have high profit margin ranging from 32% to 83%. Product categories such as *Men's Clothing* and *Strength Training* have over 80% profit margin and more than 400k order quantities each. We should ensure that there is adequate stock and the minimal shipment delay for these two products so that we can maintain customer satisfaction and high profit. Product categories such as *Camping & Hiking*, *Golf Gloves*, *Golf Balls*, and *Accessories* have over 70% profit margin but have less than 60k order quantities each.
 
-![Shipment Dashboard](https://github.com/yirongNg/Data-Viz-on-Supply-Chain-Analytics/assets/132359604/9c4e0772-c5e8-4076-b362-333a910c30d2)
+![Executive Summary](https://github.com/yirongNg/Data-Viz-on-Supply-Chain-Analytics/assets/132359604/eb683352-8c5f-41c6-8a3f-dbe46d8abad2)
 
-![Inventory Dashboard](https://github.com/yirongNg/Data-Viz-on-Supply-Chain-Analytics/assets/132359604/263b8185-547c-421c-8866-ebe7d43245f9)
+![Shipment Dashboard](https://github.com/yirongNg/Data-Viz-on-Supply-Chain-Analytics/assets/132359604/721a5b12-12f8-4b8d-80e9-0ce235b08b81)
 
-![Growth Opportunities](https://github.com/yirongNg/Data-Viz-on-Supply-Chain-Analytics/assets/132359604/5a19277f-e400-4afa-88a5-c7ba3d237fd4)
+![Inventory Dashboard](https://github.com/yirongNg/Data-Viz-on-Supply-Chain-Analytics/assets/132359604/5be7a034-1e9f-4bd4-8313-e28cf1b5cfa6)
+
+![Growth Opportunities](https://github.com/yirongNg/Data-Viz-on-Supply-Chain-Analytics/assets/132359604/1e86686e-ddb1-47f1-857c-e5e13b3815fa)
+
+
+
+
 
 
 
